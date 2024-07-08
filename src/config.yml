@@ -1,0 +1,15 @@
+########################
+### Harvester Plugin ###
+###    By Numbtus    ###
+########################
+# Need vault plugin !
+# Sell price
+
+sellprice:
+  melon: 9
+  pumpkin: 10
+
+# Max storage of the harvester (for any crops)
+
+maxstorage: 9999
+

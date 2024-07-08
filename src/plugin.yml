@@ -1,0 +1,7 @@
+name: Harvester
+version: 0.9
+author: Numbtus
+main: com.terrasia.harvester.Main
+commands:
+  harvest:
+    description: main command

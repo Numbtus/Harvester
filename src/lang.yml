@@ -1,0 +1,30 @@
+# Here you can modify a lot of messages of the plugin
+
+# Prefix before all messages of the plugin
+# Please add a space at the end of the prefix for a better visibility
+prefix: "&7[&bCollecteur&7] "
+
+# Message send when player open a harvester in a different chunk
+diffChunk: "&c&lVous devez etres dans le meme chunk que le collecteur pour pouvoir l'ouvrir."
+# Message send when there is already a harvester in the chunk
+alreadyHarvester: "&cIl y'a deja un collecteur dans ce chunk !"
+
+# Harvester interface:
+
+sellButton: "&a&lVendre"
+name: "&b&lCollecteur"
+pumpkinName: "&6&lCitrouilles"
+melonName: "&c&lMelons"
+quantity: "&7Quantité: &a&l"
+# Variables: %price% / %quantity% / %crops%
+sellMessage: "&7Vous avez vendu &a%quantity% &6%crops% &7pour &a%price%$"
+
+
+# other
+
+noPermission: "&cVous n'avez pas la permission!"
+playerError: "&cJoueur introuvable!"
+noInt: "&cLa quantité fournis n'est pas un entier!"
+# Variables: %playerSend%
+successfullyGiveMessage: "&aVous avez donné 1 collecteur a &2%playerSend%"
+receiveMessage: "&aVous avez recus &e1 &bcollecteur"
